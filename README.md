@@ -1,4 +1,4 @@
-# resin_try1
+# resin_calculator
 
 A new Flutter project.
 
